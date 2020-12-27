@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "683169018225",
+    "project_id": "bonita-bites",
+    "storage_bucket": "bonita-bites.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683169018225:android:82d15dfd9db75f7d0286d0",
+        "android_client_info": {
+          "package_name": "com.example.bonitabites"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683169018225-fgca5qon0ppvhruramch26v5umodrn02.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTIFptTjVs2XcLXhwp_DTU0-A9Ni4j28Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683169018225-fgca5qon0ppvhruramch26v5umodrn02.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
